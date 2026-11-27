@@ -8,9 +8,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncStudio&theme=github_dark" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncStudio0&theme=github_dark" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncStudio&theme=github_dark" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncStudio0&theme=github_dark" width="50%" />
 </p>
